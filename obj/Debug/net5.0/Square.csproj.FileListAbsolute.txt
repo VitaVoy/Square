@@ -1,0 +1,16 @@
+C:\Users\Vit\source\repos\Square\bin\Debug\net5.0\Square.exe
+C:\Users\Vit\source\repos\Square\bin\Debug\net5.0\Square.deps.json
+C:\Users\Vit\source\repos\Square\bin\Debug\net5.0\Square.runtimeconfig.json
+C:\Users\Vit\source\repos\Square\bin\Debug\net5.0\Square.runtimeconfig.dev.json
+C:\Users\Vit\source\repos\Square\bin\Debug\net5.0\Square.dll
+C:\Users\Vit\source\repos\Square\bin\Debug\net5.0\ref\Square.dll
+C:\Users\Vit\source\repos\Square\bin\Debug\net5.0\Square.pdb
+C:\Users\Vit\source\repos\Square\obj\Debug\net5.0\Square.csproj.AssemblyReference.cache
+C:\Users\Vit\source\repos\Square\obj\Debug\net5.0\Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vit\source\repos\Square\obj\Debug\net5.0\Square.AssemblyInfoInputs.cache
+C:\Users\Vit\source\repos\Square\obj\Debug\net5.0\Square.AssemblyInfo.cs
+C:\Users\Vit\source\repos\Square\obj\Debug\net5.0\Square.csproj.CoreCompileInputs.cache
+C:\Users\Vit\source\repos\Square\obj\Debug\net5.0\Square.dll
+C:\Users\Vit\source\repos\Square\obj\Debug\net5.0\ref\Square.dll
+C:\Users\Vit\source\repos\Square\obj\Debug\net5.0\Square.pdb
+C:\Users\Vit\source\repos\Square\obj\Debug\net5.0\Square.genruntimeconfig.cache
